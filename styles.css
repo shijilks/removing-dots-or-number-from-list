@@ -1,0 +1,20 @@
+ol {
+    list-style-type: none; /* Remove numbers */
+    padding: 0; /* Optional: remove default padding */
+    margin: 0; /* Optional: remove default margin */
+  }
+
+  /* Additional styling for list items if needed */
+  ol li {
+    margin-bottom: 10px; /* Optional: add margin between list items */
+  }
+  ul {
+    list-style-type: none; /* Remove numbers */
+    padding: 0; /* Optional: remove default padding */
+    margin: 0; /* Optional: remove default margin */
+  }
+
+  /* Additional styling for list items if needed */
+  ul li {
+    margin-bottom: 10px; /* Optional: add margin between list items */
+  }
